@@ -23,16 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+UM Heroi que esquece de lutar para ter debates filosóficos com penssadores importantes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT Para roteiro
+Leonardo AI para criação de imagem
+LibreOffice para criação do e-book.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedindo para o Chat GPT criar uma história sobre um herói que sempre esquecia suas lutas
+contra o crime para lutar com as ideias. Após isso pedi para o Leonardo AI criar uma imagem
+de um Heroí sentado com outros filosofos. E por fim, passei a história para um documento.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
